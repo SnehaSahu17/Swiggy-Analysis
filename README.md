@@ -30,13 +30,6 @@ Analysis of the following is performed in this Project:
     7. Area-wise Cuisines Analysis & Distribution of Cuisines in BTM, HSR, & Koramangala (Bangalore) Restaurants.
     8. Most preferred Cuisines by the Customers.
 
-
-
-#  Dataset of Bangalore
-Download the dataset for this project from following Link -
-* [Swiggy Data Analysis Dataset](https://github.com/striver005/Swiggy-Data-Analysis/blob/master/data/Swiggy%20Bangalore%20Outlet%20Details.csv)
-
-
 #  Data Analysis
 In the datasets Following features (columns) are given:
 
